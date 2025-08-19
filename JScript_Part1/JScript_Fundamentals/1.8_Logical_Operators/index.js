@@ -14,7 +14,7 @@ alert( alert(1) || 2 || alert(3) );// 1 then 2
  alert(null || 2 && 3 || 4) //3
 
  //task6
- let age=prompt('Enter your age','');
+ let age=+prompt('Enter your age','');
  if(age>=14 && age<=90)
         alert('valid');
 

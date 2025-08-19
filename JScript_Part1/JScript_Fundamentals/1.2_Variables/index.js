@@ -1,7 +1,7 @@
 //task1
 let admin,name;
-name="John";
-admin=name;
+name1="John";
+admin=name1;
 alert(admin);
 
 //taskk2
